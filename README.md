@@ -1,4 +1,4 @@
-# Correlation and regression for data analysis
+# EXP NO 3 :Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coefficient of correlation and regression line
